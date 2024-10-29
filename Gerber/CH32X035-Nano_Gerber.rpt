@@ -1,0 +1,185 @@
+-----------------------------------------
+Quadcept Gerber File Report
+-----------------------------------------
+
+Gerber File Report For : CH32X035-Nano.qproj\CH32X035-Nano
+-----------------------------------------
+CH32X035-Nano_TopPattern.gbr
+CH32X035-Nano_TopSilk.gbr
+CH32X035-Nano_TopSolder.gbr
+CH32X035-Nano_TopPaste.gbr
+CH32X035-Nano_BottomPattern.gbr
+CH32X035-Nano_BottomSilk.gbr
+CH32X035-Nano_BottomSolder.gbr
+CH32X035-Nano_BottomPaste.gbr
+CH32X035-Nano_Board.gbr
+-----------------------------------------
+
+Format : RS-274X
+Unit : mm
+Coordinate : Absolute
+DigitOfInt : 4
+DigitOfFloat : 4
+ZeroSuppression : Leading
+Prefix : 
+CoordinateOmitted  : On
+MacroAperture  : On
+
+-----------------------------------------
+
+-----------------------------------------
+
+CH32X035-Nano_TopPattern.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.1
+D11 Circle 0.15
+D12 Circle 0.2
+D13 Circle 0.25
+D14 Circle 0.3
+D15 Circle 0.35
+D16 Circle 0.5
+D17 Circle 0.6
+D18 Circle 2.0
+D19 Rectangle 0.6 X 0.6
+D21 Rectangle Macro 0.2 X 1.35  Rotation 45
+D22 Rectangle Macro 0.2 X 1.35  Rotation 135
+D23 Rectangle Macro 0.2 X 1.35  Rotation 225
+D24 Rectangle Macro 0.2 X 1.35  Rotation 315
+D25 Rectangle 0.3 X 2.3
+D26 Rectangle 0.6 X 2.3
+D27 Rectangle 0.8 X 0.9
+D28 Rectangle 1.45 X 0.65
+D29 Rectangle 1.45 X 0.65
+D30 Rectangle 1.5 X 2.0
+
+-----------------------------------------
+
+CH32X035-Nano_TopSilk.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.1
+D11 Circle 0.15
+D12 Circle 0.2
+
+-----------------------------------------
+
+CH32X035-Nano_TopSolder.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.2
+D11 Circle 2.1
+D12 Circle 2.2
+D13 Rectangle 0.8 X 0.8
+D15 Rectangle Macro 0.3 X 1.45  Rotation 45
+D16 Rectangle Macro 0.3 X 1.45  Rotation 135
+D17 Rectangle Macro 0.3 X 1.45  Rotation 225
+D18 Rectangle Macro 0.3 X 1.45  Rotation 315
+D19 Rectangle 0.4 X 2.4
+D20 Rectangle 0.7 X 2.4
+D21 Rectangle 1.0 X 1.1
+D22 Rectangle 1.6 X 2.1
+D23 Rectangle 1.65 X 0.85
+D24 Rectangle 1.65 X 0.85
+
+-----------------------------------------
+
+CH32X035-Nano_TopPaste.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.2
+D11 Rectangle 0.6 X 0.6
+D12 Rectangle Macro 0.2 X 1.35  Rotation 45
+D13 Rectangle Macro 0.2 X 1.35  Rotation 135
+D14 Rectangle Macro 0.2 X 1.35  Rotation 225
+D15 Rectangle Macro 0.2 X 1.35  Rotation 315
+D16 Rectangle 0.3 X 2.3
+D17 Rectangle 0.6 X 2.3
+D18 Rectangle 0.8 X 0.9
+D19 Rectangle 1.45 X 0.65
+D20 Rectangle 1.45 X 0.65
+D21 Rectangle 1.5 X 2.0
+
+-----------------------------------------
+
+CH32X035-Nano_BottomPattern.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.1
+D11 Circle 0.15
+D12 Circle 0.2
+D13 Circle 0.25
+D14 Circle 0.3
+D15 Circle 0.35
+D16 Circle 0.5
+D17 Circle 0.6
+D18 Circle 2.0
+D19 Rectangle 0.6 X 0.6
+D21 Rectangle 0.2 X 0.8
+D22 Rectangle 0.53 X 1.9
+D23 Rectangle 0.6 X 1.9
+D24 Rectangle 0.8 X 0.9
+D25 Rectangle 0.9 X 0.8
+D26 Rectangle 1.1 X 2.5
+
+-----------------------------------------
+
+CH32X035-Nano_BottomSilk.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.15
+D11 Circle 0.2
+
+-----------------------------------------
+
+CH32X035-Nano_BottomSolder.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.2
+D11 Circle 2.1
+D12 Circle 2.2
+D13 Rectangle 0.8 X 0.8
+D15 Rectangle 0.3 X 0.9
+D16 Rectangle 0.63 X 2.0
+D17 Rectangle 1.0 X 1.1
+D18 Rectangle 1.1 X 1.0
+D19 Rectangle 1.3 X 2.7
+
+-----------------------------------------
+
+CH32X035-Nano_BottomPaste.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.2
+D11 Rectangle 0.6 X 0.6
+D12 Rectangle 0.2 X 0.8
+D13 Rectangle 0.53 X 1.9
+D14 Rectangle 0.8 X 0.9
+D15 Rectangle 0.9 X 0.8
+D16 Rectangle 1.1 X 2.5
+
+-----------------------------------------
+
+CH32X035-Nano_Board.gbr
+
+Offset : (0,0)
+Mirror : None
+
+D10 Circle 0.2
+

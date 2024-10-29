@@ -1,0 +1,29 @@
+-----------------------------------------
+Quadcept NCDrill File Report
+-----------------------------------------
+
+NCDrill File Report For : CH32X035-Nano.qproj\CH32X035-Nano
+-----------------------------------------
+CH32X035-Nano_NCDrill.drl
+-----------------------------------------
+
+Format : Excellon
+Unit : mm
+Coordinate : Absolute
+DigitOfInt : 4
+DigitOfFloat : 4
+ZeroSuppression : Leading
+Offset : (0,0)
+Mirror : None
+Prefix : 
+OutputType[SlotDrill] : Sequential 0.1000
+
+----------------------------------------------------------------------------------------------------
+Tool  HoleType  Size                      Tolerance        Angle  Layer       Plated      Quantity  
+----------------------------------------------------------------------------------------------------
+T01   Round     0.3000                    +-0.0000         0      Top-Bottom  Plated      23        
+T02   Round     0.6500                    +-0.0000         0      Top-Bottom  Non-Plated  2         
+T03   Slot      0.6500 (0.6500 * 1.4500)  +-0.0500         0      Top-Bottom  Plated      36        
+T04   Round     1.0000                    +-0.0500         0      Top-Bottom  Plated      30        
+T05   Round     1.2500                    +-0.0000         0      Top-Bottom  Plated      1         
+T06   Round     1.3000                    +0.1000,-0.0000  0      Top-Bottom  Plated      2         
